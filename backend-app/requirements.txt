@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+boto3
+pytesseract
+gTTS
+firebase-admin
+translate
+python-dotenv
+opencv-python-headless
